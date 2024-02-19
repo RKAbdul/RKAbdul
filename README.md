@@ -1,2 +1,6 @@
-### Languages
-I mainly develop in JS and/or PHP, along HTML and also learning CSS
+Future **Software Developer**.
+
+Working with **C++**, **Java** and **Dart**.
+Experience with **PHP**, **Python** and **JS**.
+
+
