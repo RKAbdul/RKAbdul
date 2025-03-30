@@ -9,6 +9,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkabdul&show_icons=true&locale=en&layout=compact" alt="rkabdul" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkabdul&show_icons=true&locale=en" alt="rkabdul" /></p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkabdul" alt="rkabdul" /></a> </p>
-
