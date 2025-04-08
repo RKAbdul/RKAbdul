@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkabdul&label=Profile%20views&color=0e75b6&style=flat" alt="rkabdul" /> </p>
 
-## My Startup: [Compi](https://comiapp.es)
+## My Startup: [Compi](https://compiapp.es)
 
 **More accessible housing, more human shared living.**
 
